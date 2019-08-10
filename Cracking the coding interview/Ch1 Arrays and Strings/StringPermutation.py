@@ -46,6 +46,8 @@ class StringPermutation:
         for i in string2:
             if i in freq:
                 freq[i] -= 1
+                if freq[i] < 0:
+                    return False
             else:
                 return False    # mismatch at any point returns False
 
@@ -72,11 +74,11 @@ class StringPermutation:
 
 if __name__ == '__main__':
 
-    string1 = 'abCde'
-    string2 = 'bcdea'
+    string1 = 'aacc'
+    string2 = 'ccac'
     sp1 = StringPermutation()
 
-    print(sp1.checkPermutationExcludingSpaces(string1, string2))
+    # print(sp1.checkPermutationExcludingSpaces(string1, string2))
     print(sp1.checkPermutationBySorting(string1, string2))
     print(sp1.checkPermutationByCounting(string1, string2))
-    print(sp1.checkPermutationNeglectingCase(string1, string2))
+    # print(sp1.checkPermutationNeglectingCase(string1, string2))
