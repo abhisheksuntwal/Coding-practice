@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3f4f824-a18e-4cec-a6ad-4fa0ea1b76dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/OneArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/PalindromePermutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/URLify.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/DayOfTheYear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/DiceRolls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/SwapForLongestRepeatedSubstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/RotateMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/StringCompression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database Operations/python_with_mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database Operations/sqlalchemy_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/StringCompression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,48 +16,45 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/URLify.py">
+        <entry file="file://$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/StringCompression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="61" column="42" selection-start-line="61" selection-start-column="42" selection-end-line="61" selection-end-column="42" />
+            <state relative-caret-position="374">
+              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/PalindromePermutation.py">
+        <entry file="file://$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/RotateMatrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+            <state relative-caret-position="506">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/OneArray.py">
+        <entry file="file://$PROJECT_DIR$/Database Operations/python_with_mysql.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode/DayOfTheYear.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+            <state relative-caret-position="40">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#20#34#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Leetcode/SwapForLongestRepeatedSubstring.py">
+        <entry file="file://$PROJECT_DIR$/Database Operations/sqlalchemy_practice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="238">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#0#6#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,10 +81,16 @@
         <option value="$PROJECT_DIR$/Leetcode/IsAnagram.py" />
         <option value="$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/URLify.py" />
         <option value="$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/PalindromePermutation.py" />
-        <option value="$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/OneArray.py" />
         <option value="$PROJECT_DIR$/Leetcode/DayOfTheYear.py" />
         <option value="$PROJECT_DIR$/Leetcode/DiceRolls.py" />
         <option value="$PROJECT_DIR$/Leetcode/SwapForLongestRepeatedSubstring.py" />
+        <option value="$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/OneArray.py" />
+        <option value="$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/StringCompression.py" />
+        <option value="$PROJECT_DIR$/Leetcode/StringCompression.py" />
+        <option value="$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/RotateMatrix.py" />
+        <option value="$PROJECT_DIR$/Database operations.py" />
+        <option value="$PROJECT_DIR$/Database Operations/python_with_mysql.py" />
+        <option value="$PROJECT_DIR$/Database Operations/sqlalchemy_practice.py" />
       </list>
     </option>
   </component>
@@ -103,7 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,13 +115,7 @@
             <path>
               <item name="Coding-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coding-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Cracking the coding interview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Coding-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Cracking the coding interview" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch1 Arrays and Strings" type="462c0819:PsiDirectoryNode" />
+              <item name="Database Operations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Coding-practice" type="b2602c69:ProjectViewProjectNode" />
@@ -131,6 +126,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -149,8 +145,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DiceRolls">
-    <configuration name="DayOfTheYear" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.sqlalchemy_practice">
+    <configuration name="RotateMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coding-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Github\Coding-practice\Cracking the coding interview\Ch1 Arrays and Strings\Anagrams.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StringCompression (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Coding-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,7 +179,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/DayOfTheYear.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/StringCompression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,28 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DiceRolls" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Coding-practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/DiceRolls.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="OneArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="StringCompression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Coding-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,7 +200,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/OneArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/StringCompression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,7 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PalindromePermutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="python_with_mysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Coding-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,11 +217,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Database Operations" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/PalindromePermutation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database Operations/python_with_mysql.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +230,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="URLify" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sqlalchemy_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Coding-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,11 +238,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Database Operations" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/URLify.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database Operations/sqlalchemy_practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.DiceRolls" />
-        <item itemvalue="Python.DayOfTheYear" />
-        <item itemvalue="Python.OneArray" />
-        <item itemvalue="Python.PalindromePermutation" />
-        <item itemvalue="Python.URLify" />
+        <item itemvalue="Python.sqlalchemy_practice" />
+        <item itemvalue="Python.python_with_mysql" />
+        <item itemvalue="Python.RotateMatrix" />
+        <item itemvalue="Python.StringCompression (1)" />
+        <item itemvalue="Python.StringCompression" />
       </list>
     </recent_temporary>
   </component>
@@ -320,20 +316,20 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12539515" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32936078" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -347,9 +343,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Leetcode; IsAnagram" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/IsUnique">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/IsUnique" />
     <entry file="file://$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/IsUnique.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
@@ -371,27 +365,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/URLify.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="61" column="42" selection-start-line="61" selection-start-column="42" selection-end-line="61" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/PalindromePermutation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/OneArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode/DayOfTheYear.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -410,6 +383,71 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
           <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/PalindromePermutation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/URLify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="61" column="42" selection-start-line="61" selection-start-column="42" selection-end-line="61" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/OneArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/StringCompression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="61" lean-forward="true" selection-start-line="60" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/StringCompression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Database operations.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cracking the coding interview/Ch1 Arrays and Strings/RotateMatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Database Operations/python_with_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#20#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Database Operations/sqlalchemy_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#6#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
