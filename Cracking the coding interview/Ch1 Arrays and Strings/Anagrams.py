@@ -1,5 +1,7 @@
 """
-Rotate a given N*N
+Interview Question: Check to see if two strings are anagrams. 
+Method I used to solve is through dictionary, but it can also be solves by using XOR technique which solves the 
+given problem in constant space [Big-O(1)].
 """
 
 
